@@ -1,0 +1,113 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Assistant-Bold.ttf",
+      "sha1": "bc0cbf687dd64b28f4fd5b4a0b8de50bac9fab71"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-ExtraBold.ttf",
+      "sha1": "b5ffcced9bab78fb7fbe8bfa1e2229f501dfaa48"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-ExtraLight.ttf",
+      "sha1": "924e46a771b47d8e15ae8b81646431e2a30cfc5e"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-Light.ttf",
+      "sha1": "71e87fe9403fb86a9ec128594d59705ddd242ba0"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-Medium.ttf",
+      "sha1": "8b533cdcda8dd42032c2ee962d76988c554d10c3"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-Regular.ttf",
+      "sha1": "c9f93188102aff986e127fd71b48c6e6ef1cf538"
+    },
+    {
+      "path": "src/assets/fonts/Assistant-SemiBold.ttf",
+      "sha1": "451921324281ffcce6072e6c8d0656dd1165528e"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "c23ede86996d8239865bcd04c806e3789aaa0b94"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "21bb3301498eea8b9c5abb1e8a065276105981a0"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-ExtraBold.ttf",
+      "sha1": "d26cd8614e40a2dda56953b863e255f1c798c245"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-ExtraBoldItalic.ttf",
+      "sha1": "761181538f88bb8cb16fac503b634e92df17f374"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "051b6b2acbd0e33252870dc28045ba27ae0acd77"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Light.ttf",
+      "sha1": "448dbc1e8add1538f788c9e34cdb701ed25ac993"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-LightItalic.ttf",
+      "sha1": "96925397a2560a1de4cf0984591a37f62aa6e8bb"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Medium.ttf",
+      "sha1": "f886dd439250f2a8a7326f3f6b433adf34c96fe8"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-MediumItalic.ttf",
+      "sha1": "b845bb5a4e11ee484942b4b326d6bec37526933a"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "9a19a459ca7bca15d2de8269b80411f2b4a71ccf"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "30fcdd8f737e6a86abda2d643d2f23c5286c4663"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans-SemiBoldItalic.ttf",
+      "sha1": "4c5aa8cc443dc8d478f9126cd2c17720a3eeabfb"
+    },
+    {
+      "path": "src/assets/logos/Edit.png",
+      "sha1": "a17b49846fc7902a8489c62de14471a34444660f"
+    },
+    {
+      "path": "src/assets/logos/Home.png",
+      "sha1": "406d0385672b8e689dbd21ceab13c21ceab74c90"
+    },
+    {
+      "path": "src/assets/logos/HomeUnActive.png",
+      "sha1": "3cd641e31f810fce86918a9f0557f40b7639ef14"
+    },
+    {
+      "path": "src/assets/logos/Onboarding1.png",
+      "sha1": "a726efcf87489f6d03a0dc226e1700177ebec5c2"
+    },
+    {
+      "path": "src/assets/logos/Onboarding2.png",
+      "sha1": "be06dabfc44e291072959d78305b5eebed779a04"
+    },
+    {
+      "path": "src/assets/logos/Onboarding3.png",
+      "sha1": "e75d0735595dfdc3647112bd180befd96cd41d52"
+    },
+    {
+      "path": "src/assets/logos/Plus.png",
+      "sha1": "e307ff1319871a9b2080bc40340ab93a5c49b276"
+    },
+    {
+      "path": "src/assets/logos/Splash.png",
+      "sha1": "937ddf2ce8ff5593b87acd43c4e65a52f863394e"
+    }
+  ]
+}
